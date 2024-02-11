@@ -1,8 +1,16 @@
-font=JetBrainsMono Nerd Font
-font-size=12
 ignore-empty-password
+clock
 daemonize
+show-failed-attempts
+
+font=JetBrains Nerd Font Mono
+font-size=20
 # image=~/Pictures/wallhaven-405380.jpg
+
+indicator
+indicator-radius=120
+effect-blur=7x5
+effect-vignette=0.5:0.5
 
 color=1e1e2e
 bs-hl-color=f5e0dc
