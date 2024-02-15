@@ -5,7 +5,7 @@ show-failed-attempts
 
 font=JetBrains Nerd Font Mono
 font-size=20
-# image=~/Pictures/wallhaven-405380.jpg
+image=$HOME/Pictures/Wallpapers/nixos-wallpaper.png
 
 indicator
 indicator-radius=120
