@@ -5,7 +5,7 @@ show-failed-attempts
 
 font=JetBrains Nerd Font Mono
 font-size=20
-image=$HOME/Pictures/Wallpapers/nixos-wallpaper.png
+image=$HOME/Pictures/Wallpapers/flake-light.jpg
 
 indicator
 indicator-radius=120
